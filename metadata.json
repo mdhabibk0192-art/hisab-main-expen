@@ -1,0 +1,7 @@
+{
+  "name": "Smart Ledger AI",
+  "description": "An AI-powered personal finance and daily activity tracker with an Excel-like interface, automatic balance calculations, and natural language entry processing.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
